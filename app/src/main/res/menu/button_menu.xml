@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:icon="@drawable/ic_home"
+    android:id="@+id/btn_home"
+    android:title="Home"/>
+    <item
+        android:id="@+id/btn_buscar"
+        android:title="buscar"
+        android:icon="@drawable/ic_search"/>
+    <item
+        android:id="@+id/btn_agregar"
+        android:title="Agregar"
+        android:icon="@drawable/ic_baseline_add"/>
+    <item
+        android:id="@+id/btn_comentarios"
+        android:title="comentarios"
+        android:icon="@drawable/ic_baseline_mode_comment"/>
+    <item
+        android:id="@+id/btn_perfil"
+        android:title="perfil"
+        android:icon="@drawable/ic_account_circle"/>
+</menu>
